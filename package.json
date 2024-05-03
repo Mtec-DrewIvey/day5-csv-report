@@ -1,0 +1,11 @@
+{
+  "name": "csv-report",
+  "version": "1.0.0",
+  "description": "csv report learning",
+  "main": "read-csv-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drew Ivey",
+  "license": "ISC"
+}
